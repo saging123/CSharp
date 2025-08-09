@@ -1,0 +1,39 @@
+﻿using System;
+// this is a single comment
+/**
+* This is  block comment
+*/
+// HelloWord <--  C#
+// helloWorld <--- Java
+namespace MyfirstApplication
+{
+    class Program
+    {
+        /**
+        * This is a method
+        * encapsulation (private protected public) <optional modifier> (static) 
+        * datatype (int,void,string...) MethodName(params ...) 
+        */
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("HELLO WORLD");
+            int FirstNumber = 10;
+            int SecondNumber = 12;
+            // Arguments
+            int sum = Sum(FirstNumber, SecondNumber);
+            Console.WriteLine("The sum of " +
+                                FirstNumber +
+                                " and " +
+                                SecondNumber +
+                                " is " + sum
+                            );
+        }
+        public static int Sum(int num1, int num2)
+        {
+            return num1 + num2;
+        }
+        // create a static method that computes The area of square which is side squared
+        // add an int parameter of side
+
+    }
+}
