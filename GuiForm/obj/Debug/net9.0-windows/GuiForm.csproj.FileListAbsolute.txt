@@ -1,0 +1,14 @@
+C:\C#\GuiForm\bin\Debug\net9.0-windows\GuiForm.exe
+C:\C#\GuiForm\bin\Debug\net9.0-windows\GuiForm.deps.json
+C:\C#\GuiForm\bin\Debug\net9.0-windows\GuiForm.runtimeconfig.json
+C:\C#\GuiForm\bin\Debug\net9.0-windows\GuiForm.dll
+C:\C#\GuiForm\bin\Debug\net9.0-windows\GuiForm.pdb
+C:\C#\GuiForm\obj\Debug\net9.0-windows\GuiForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\GuiForm\obj\Debug\net9.0-windows\GuiForm.AssemblyInfoInputs.cache
+C:\C#\GuiForm\obj\Debug\net9.0-windows\GuiForm.AssemblyInfo.cs
+C:\C#\GuiForm\obj\Debug\net9.0-windows\GuiForm.csproj.CoreCompileInputs.cache
+C:\C#\GuiForm\obj\Debug\net9.0-windows\GuiForm.dll
+C:\C#\GuiForm\obj\Debug\net9.0-windows\refint\GuiForm.dll
+C:\C#\GuiForm\obj\Debug\net9.0-windows\GuiForm.pdb
+C:\C#\GuiForm\obj\Debug\net9.0-windows\GuiForm.genruntimeconfig.cache
+C:\C#\GuiForm\obj\Debug\net9.0-windows\ref\GuiForm.dll
