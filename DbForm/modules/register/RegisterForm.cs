@@ -1,4 +1,5 @@
 using System.Windows.Forms;
+using DbForm.Modules.Login;
 using MySql.Data.MySqlClient;// <--  Add this line
 
 namespace DbForm.Modules.Register
@@ -10,6 +11,10 @@ namespace DbForm.Modules.Register
         public RegisterForm()
         {
             DrawForm();
+        }
+        public void click_Login(object sender, EventArgs e)
+        {
+            this.Close();
         }
         public void click_register(object sender, EventArgs e)
         {
