@@ -1,5 +1,4 @@
 using DbForm.Modules.Register;
-using Microsoft.VisualBasic.ApplicationServices;
 using MySql.Data.MySqlClient;// <--  Add this line
 
 namespace DbForm.Modules.Login

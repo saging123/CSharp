@@ -1,5 +1,3 @@
-
-
 namespace DbForm.Modules.Login
 {
     partial class LoginForm
